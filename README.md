@@ -32,4 +32,4 @@ Titanic competition z Kaggle.
           NLP.ipynb & Tweets.csv
           
 --------------------------------------------------------
-Twitter US Airline Sentiment.
+Twitter US Airline Sentiment. Jeste neni dokonceny.
